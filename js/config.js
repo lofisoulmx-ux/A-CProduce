@@ -62,9 +62,9 @@ window.SITE_CONFIG = {
     description: "Cada trailer es diseñado y construido a la medida del negocio de nuestros clientes.",
     // Agrega/quita objetos aquí. "image" es la ruta del archivo.
     items: [
-      { image: "assets/gallery/trailer-vino.jpg", alt: "Food trailer color vino con logo azul", caption: "Trailer color vino" },
-      { image: "assets/gallery/trailer-gris.jpg", alt: "Food trailer gris con logo dorado", caption: "Trailer color gris" },
-      { image: "assets/gallery/trailer-rojo.jpg", alt: "Food trailer rojo con acabados en aluminio", caption: "Trailer color rojo" },
+      { image: "assets/gallery/G1.jpg", alt: "Food trailer color vino con logo azul", caption: "Trailer color vino" },
+      { image: "assets/gallery/G2.jpg", alt: "Food trailer gris con logo dorado", caption: "Trailer color gris" },
+      { image: "assets/gallery/G3.jpg", alt: "Food trailer rojo con acabados en aluminio", caption: "Trailer color rojo" },
     ],
   },
 
