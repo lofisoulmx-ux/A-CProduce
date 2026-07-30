@@ -30,7 +30,7 @@ window.SITE_CONFIG = {
 
   // ---------- REDES SOCIALES (barra superior) ----------
   socials: [
-    { label: "Instagram", url: "https://instagram.com/" },
+    { label: "Instagram", url: "https://www.instagram.com/anabelcernicharo?igsh=b3VpOGg5Y2U4bzdi" },
     { label: "Facebook", url: "https://www.facebook.com/share/1Je5BAgtpv/" },
     { label: "TikTok", url: "https://www.tiktok.com/@anabelcernicharo?_r=1&_t=ZS-98TWwDMM1pc" },
   ],
@@ -58,38 +58,38 @@ window.SITE_CONFIG = {
 
   // ---------- GALERÍA ----------
   gallery: {
-    title: "Nuestros trabajos",
-    description: "Cada trailer es diseñado y construido a la medida del negocio de nuestros clientes.",
+    title: "Nuestros servicios",
+    description: "Conoce parte de nuestras operaciones diarias, procesos logísticos y productos frescos que abastecemos a nuestros clientes.",
     // Agrega/quita objetos aquí. "image" es la ruta del archivo.
     items: [
-      { image: "assets/gallery/G1.jpg", alt: "Food trailer color vino con logo azul", caption: "Trailer color vino" },
-      { image: "assets/gallery/G2.jpg", alt: "Food trailer gris con logo dorado", caption: "Trailer color gris" },
-      { image: "assets/gallery/G3.jpg", alt: "Food trailer rojo con acabados en aluminio", caption: "Trailer color rojo" },
+      { image: "assets/gallery/G1.jpg", alt: "Food trailer color vino con logo azul", caption: "Frutas" },
+      { image: "assets/gallery/G2.jpg", alt: "Food trailer gris con logo dorado", caption: "In and Out" },
+      { image: "assets/gallery/G3.jpg", alt: "Food trailer rojo con acabados en aluminio", caption: "Verduras" },
     ],
   },
 
   // ---------- ACERCA DE ----------
   about: {
-    title: "Construidos para durar.",
-    description: "Cada food trailer pasa por un proceso de diseño, ingeniería y fabricación pensado para que tu negocio funcione sin contratiempos, todos los días.",
+    title: "Comprometidos con la calidad.",
+    description: "En A&C Produce abastecemos frutas y verduras frescas para distribuidores, supermercados, restaurantes y centros de distribución. Nuestro compromiso es ofrecer productos de calidad, logística eficiente y un servicio confiable de principio a fin, incluyendo operaciones de In & Out, almacenamiento y traslados.",
     stats: [
       { value: "10+", label: "Años de experiencia" },
-      { value: "150+", label: "Trailers entregados" },
-      { value: "100%", label: "Personalizados" },
+      { value: "24/7", label: "Operacion logistica" },
+      { value: "100%", label: "Profesionalismo" },
     ],
   },
 
   // ---------- CONTACTO / FOOTER ----------
   contact: {
-    title: "Hablemos de tu proyecto.",
-    description: "Cuéntanos qué necesitas y te ayudamos a diseñarlo.",
-    email: "contacto@davidfoodtrailers.com",
-    phone: "+52 000 000 0000",
+    title: "Hablemos de tu negocio.",
+    description: "¿Buscas un proveedor confiable y un servicio garantizado? Contáctanos y con gusto atenderemos tu proyecto  .",
+    email: "acprodc2022@gmail.com",
+    phone: "+1 (956) 252-9027",
     whatsappUrl: "https://wa.me/520000000000",
     address: "",
   },
 
   footer: {
-    copyright: "© 2026 David Food Trailers. Todos los derechos reservados.",
+    copyright: "© 2026 A&C Produce. Todos los derechos reservados.",
   },
 };
