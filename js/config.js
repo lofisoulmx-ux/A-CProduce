@@ -11,9 +11,9 @@ window.SITE_CONFIG = {
 
   // ---------- MARCA ----------
   brand: {
-    name: "David Food Trailers",
+    name: "A&C Produce",
     logo: "assets/logo.png",
-    logoAlt: "David Food Trailers",
+    logoAlt: "A&C Produce",
   },
 
   // ---------- COLORES (tokens de tema) ----------
@@ -22,8 +22,8 @@ window.SITE_CONFIG = {
     colorOverlay: "rgba(8,10,14,0.55)", // overlay sobre el hero
     colorText: "#f4f2ee",        // texto principal (blanco hueso)
     colorTextMuted: "rgba(244,242,238,0.72)",
-    colorAccent: "#c98a2c",      // dorado/ámbar (acento, links, líneas)
-    colorAccentSoft: "rgba(201,138,44,0.35)",
+    colorAccent: "#2E7D32",      // dorado/ámbar (acento, links, líneas)
+    colorAccentSoft: "rgba(45,125,50,0.35)",
     fontDisplay: "'Playfair Display', Georgia, serif",
     fontBody: "'Inter', 'Helvetica Neue', Arial, sans-serif",
   },
@@ -31,8 +31,8 @@ window.SITE_CONFIG = {
   // ---------- REDES SOCIALES (barra superior) ----------
   socials: [
     { label: "Instagram", url: "https://instagram.com/" },
-    { label: "Facebook", url: "https://www.facebook.com/share/19NSgF3MDu/" },
-    { label: "TikTok", url: "https://tiktok.com/" },
+    { label: "Facebook", url: "https://www.facebook.com/share/1Je5BAgtpv/" },
+    { label: "TikTok", url: "https://www.tiktok.com/@anabelcernicharo?_r=1&_t=ZS-98TWwDMM1pc" },
   ],
 
   // ---------- NAVEGACIÓN ----------
@@ -46,10 +46,10 @@ window.SITE_CONFIG = {
   hero: {
     image: "assets/hero.jpg",
     imageAlt: "Food trailer personalizado al atardecer",
-    eyebrow: "Diseñamos · Fabricamos · Hacemos realidad",
-    titleLine1: "Food Trailers",
-    titleLine2: "Hechos para tu éxito.", // línea en itálica/acento
-    description: "Fabricamos food trailers personalizados con la más alta calidad, funcionalidad y acabados profesionales.",
+    eyebrow: "Logistica · Calidad · Confianza",
+    titleLine1: "A&C PRODUCE",
+    titleLine2: "Directo del campo a tu negocio.", // línea en itálica/acento
+    description: "Suministramos frutas y verduras frescas para distribuidores. Especialistas IN and Out y logistica.  ",
     ctaText: "Cuéntanos tu proyecto",
     ctaHref: "#contacto",
     sideLabel: "Ver galería",
