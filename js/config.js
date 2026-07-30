@@ -22,8 +22,8 @@ window.SITE_CONFIG = {
     colorOverlay: "rgba(8,10,14,0.55)", // overlay sobre el hero
     colorText: "#f4f2ee",        // texto principal (blanco hueso)
     colorTextMuted: "rgba(244,242,238,0.72)",
-    colorAccent: "#2E7D32",      // dorado/ámbar (acento, links, líneas)
-    colorAccentSoft: "rgba(45,125,50,0.35)",
+    colorAccent: "#5F6F52",      // dorado/ámbar (acento, links, líneas)
+    colorAccentSoft: "rgba(95,111,82,0.35)",
     fontDisplay: "'Playfair Display', Georgia, serif",
     fontBody: "'Inter', 'Helvetica Neue', Arial, sans-serif",
   },
