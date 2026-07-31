@@ -84,7 +84,7 @@ window.SITE_CONFIG = {
     title: "Hablemos de tu negocio.",
     description: "¿Buscas un proveedor confiable y un servicio garantizado? Contáctanos y con gusto atenderemos tu proyecto  .",
     email: "acproduce2022@gmail.com   ",
-    phone: "+1 (956) 252-9027",
+    phone: "+1 (956) 252-9027  |  +1 (469) 556-0056",
     whatsappUrl: "https://wa.me/520000000000",
     address: "",
   },
