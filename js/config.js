@@ -85,8 +85,8 @@ window.SITE_CONFIG = {
     description: "¿Buscas un proveedor confiable y un servicio garantizado? Contáctanos y con gusto atenderemos tu proyecto  .",
     email: "acproduce2022@gmail.com   ",
     phone: "+1 (956) 252-9027  |  +1 (469) 556-0056",
+    address: "Anabel Cernicharo    |  Eric Adrian",
     whatsappUrl: "https://wa.me/520000000000",
-    address: "",
   },
 
   footer: {
